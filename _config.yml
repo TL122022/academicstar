@@ -76,6 +76,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+   # _english
+   - scope:
+       path: ""
+       type: english
+     values:
+       sidebar:
+          nav: "english"
+       author_profile: false
+    
 
 category_archive:
   type: liquid
