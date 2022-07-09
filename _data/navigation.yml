@@ -15,3 +15,9 @@ english:
     children:
       - title: "Tenses"
         url: /english/tenses/
+
+math:
+  - title: Algebra
+    children:
+      - title: "Variables"
+        url: /math/variables/
