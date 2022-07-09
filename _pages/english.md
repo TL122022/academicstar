@@ -6,6 +6,7 @@ toc_label: "Contents"
 toc_icon: "file-alt"
 sidebar:
   nav: "english"
+author_profile: false
 ---
 
 # Heading
