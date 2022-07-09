@@ -4,6 +4,8 @@ title: "English"
 toc: true
 toc_label: "Contents"
 toc_icon: "file-alt"
+sidebar:
+  nav: "english"
 ---
 
 # Heading
@@ -13,8 +15,3 @@ toc_icon: "file-alt"
 # Heading
 ## Heading
 
-docs:
-  - title: Grammar
-    children:
-      - title: "Tenses"
-        url: /tenses
