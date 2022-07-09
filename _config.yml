@@ -83,6 +83,7 @@ defaults:
     values:
       sidebar:
         nav: "english"
+      author_profile: false
     
 
 category_archive:
