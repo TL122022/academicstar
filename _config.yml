@@ -84,7 +84,14 @@ defaults:
       sidebar:
         nav: "english"
       author_profile: false
-    
+  # _math
+  - scope:
+      path: ""
+      type: math
+    values:
+      sidebar:
+        nav: "math"
+      author_profile: false    
 
 category_archive:
   type: liquid
