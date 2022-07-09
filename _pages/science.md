@@ -3,7 +3,7 @@ permalink: /science/
 title: "Science"
 toc: true
 toc_label: "Contents"
-toc_icon: "fas fa-book"
+toc_icon: "seedling"
 ---
 
 # Heading
