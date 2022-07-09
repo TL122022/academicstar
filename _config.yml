@@ -81,6 +81,7 @@ defaults:
       path: ""
       type: english
     values:
+      layout: single
       sidebar:
         nav: "english"
       author_profile: false
@@ -89,6 +90,7 @@ defaults:
       path: ""
       type: math
     values:
+      layout: single
       sidebar:
         nav: "math"
       author_profile: false    
