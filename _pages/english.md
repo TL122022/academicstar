@@ -12,3 +12,9 @@ toc_icon: "file-alt"
 ### Heading
 # Heading
 ## Heading
+
+docs:
+  - title: Grammar
+    children:
+      - title: "Tenses"
+        url: /tenses
