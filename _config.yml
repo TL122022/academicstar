@@ -54,7 +54,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Shine"
+  name   : "TL122022"
   avatar : "/assets/images/bio-photo.jpg"
 
 defaults:
