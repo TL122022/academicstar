@@ -11,10 +11,18 @@ main:
     url: /about/
 
 english:
+  - title: Suggested Reads
+    url: /suggested-reads/
+    children:
+      - title: "Books"
+        url: /suggested-reads/books
+      - title: "Compo Writing Skills
+        url: /suggested-reads/compo-writing-skills
   - title: Grammar
+    url: /grammar/
     children:
       - title: "Tenses"
-        url: /english/tenses/
+        url: /grammar/tenses/
 
 math:
   - title: Algebra
