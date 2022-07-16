@@ -9,10 +9,3 @@ sidebar:
 author_profile: false
 ---
 
-# Heading
-## Heading
-### Heading
-### Heading
-# Heading
-## Heading
-
