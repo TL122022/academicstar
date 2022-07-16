@@ -12,14 +12,12 @@ main:
 
 english:
   - title: Suggested Reads
-    url: /suggested-reads/
     children:
       - title: "Books"
-        url: /suggested-reads/books
+        url: /english/books/
       - title: "Compo Writing Skills
-        url: /suggested-reads/compo-writing-skills
+        url: /english/compo-writing-skills/
   - title: Grammar
-    url: /grammar/
     children:
       - title: "Tenses"
         url: /grammar/tenses/
