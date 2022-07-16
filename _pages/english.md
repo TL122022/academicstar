@@ -7,5 +7,7 @@ toc_icon: "file-alt"
 sidebar:
   nav: "english"
 author_profile: false
+layout: category
+taxonomy: english
 ---
 
